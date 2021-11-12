@@ -1,0 +1,126 @@
+.fondo{
+    background-color:#222222;
+    display: flex;
+    justify-content: space-between;
+}
+
+.barraprincipal{
+    display: flex;
+    justify-content: start;
+    position: center;
+
+}
+
+.barra {
+    display: flex;
+    list-style: none;
+    color: white;  
+}
+
+.barra2{
+    color: white;
+    list-style: none;
+
+}
+
+.pizza {
+    margin: 12px;
+}
+
+.logopizzayfront{
+    margin: 40px 30px 20px 12px;
+}
+
+.menu{
+    margin-top: 35px;
+    margin-left: 12px;
+    margin-right: 12px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.menu2{
+    margin: 10px 30px 20px 12px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.contenedor1{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    width: 490px;
+    height: 350px;
+    
+   
+}
+
+.contenedor2{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    margin: 40px;
+    width: 490px;
+    height: 350px;
+    
+   
+}
+.domi{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 490px;
+    height: 350px; 
+    background-image:url("/img/domicilio.jpeg");
+    display: flex;
+    background-size: cover;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.toppizza {
+    background-color: white;
+    
+    
+
+}
+
+.letraroja{
+    color: red;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    margin: 5px;
+}
+
+.letrablanca {
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    margin: 5px;
+}
+
+.podiopizza{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.supercontenedor{
+    display: flex;
+    justify-content: center;
+
+}
+
+.plato{
+    display: flex;
+    align-items: center;
+    margin-top: 113px;
+    margin-right: 81px;
+}
+}
+
+body{
+    background-color: #E5E5E5;
+}
